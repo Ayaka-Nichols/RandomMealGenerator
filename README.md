@@ -20,7 +20,7 @@
 
 工事中
 
-[RMG1](photos\RMG1.png)
-[RMG2](photos\RMG2.png)
-[RMG3](photos\RMG3.png)
+![RMG1](\photos\RMG1.png)
+![RMG2](\photos\RMG2.png)
+![RMG3](\photos\RMG3.png)
 
